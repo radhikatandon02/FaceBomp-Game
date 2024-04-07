@@ -1,6 +1,6 @@
 # FaceBomp Game
 
-FaceBomp is a simple browser-based game inspired by the classic Whack-A-Mole. In this game, players click on popping-up photos to earn points within a limited time frame.
+FaceBomp is a simple mobile/ browser-based game inspired by the classic Whack-A-Mole. In this game, players click on popping-up photos to earn points within a limited time frame.
 
 ## How to Play
 
